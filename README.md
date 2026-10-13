@@ -11,7 +11,7 @@
 | Status Atual | Área de Foco |
 | :--- | :--- |
 | **👩‍🎓 Academia:**  Ciência da Computação (URI) | **Linguagens:** JS, Java, Python, SQL (Em Estudo) |
-| **💼 Profissional:** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxrWpd0tlYUHanZ-AnRzZSU4-Z6VBU6dEZib_6jXcGQ&s=10" style="width: 25px;"> Axia Energia Sul | **Projetos Atuais:** [Projeto para Barbearia](https://github.com/kaue83171/Projeto_Barbearia_bom_jesus)  |
+| **💼 Profissional:** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxrWpd0tlYUHanZ-AnRzZSU4-Z6VBU6dEZib_6jXcGQ&s=10" style="width: 25px;"> Axia Energia Sul | **Projetos Atuais:** [Projeto para Barbearia](https://github.com/kaue83171/Projeto_Barbearia_bom_jesus) , [Truco Online](https://github.com/kaue83171/Truco-Online) |
 
 ---
 
